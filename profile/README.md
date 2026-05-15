@@ -14,3 +14,4 @@
 
 1. [Общее](https://github.com/IT-Garage-Community/common) – материалы, не связанные с конкретной веткой обучения.
 2. [Вайбкодинг](https://github.com/IT-Garage-Community/vibecoding) – материалы ветки по вайбкодингу.
+3. [Запуск IT-продукта](https://github.com/IT-Garage-Community/it-product) - материалы для ветки по запуску продукта.
