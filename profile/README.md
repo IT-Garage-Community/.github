@@ -16,4 +16,6 @@
 2. [Вайбкодинг](https://github.com/IT-Garage-Community/vibecoding) – материалы ветки по вайбкодингу. 
 4. [Запуск IT-продукта](https://github.com/IT-Garage-Community/it-product) - материалы для ветки по запуску продукта.
 
+---
+
 [IT Garage Skills](https://github.com/IT-Garage-Community/it-garage-skills) – скиллы для разработки: от идеи до реализации.
